@@ -19,7 +19,7 @@ On further note, the developer can see any information from any guild, If you do
 
 ## Images from the bot:
 
-> ![Mine](file:///C:/Users/elfbr/Desktop/Screenshot_4.png)
+> ![Mine](https://imgur.com/a/Q5LCXTh)
 > 
 > ![Truth](https://user-images.githubusercontent.com/68248147/115130460-da3fcf80-9fa4-11eb-95a7-d19b3f79f557.png)
 > 
