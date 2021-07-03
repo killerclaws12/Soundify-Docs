@@ -17,10 +17,6 @@ On further note, the developer can see any information from any guild, If you do
 
 *More FAQs will be added soon*
 
-## Images from the bot:
+## Images:
 
-> ![Mine](https://imgur.com/a/Q5LCXTh)
-> 
-> ![Truth](https://user-images.githubusercontent.com/68248147/115130460-da3fcf80-9fa4-11eb-95a7-d19b3f79f557.png)
-> 
-> ![Help](https://user-images.githubusercontent.com/68248147/115130501-25f27900-9fa5-11eb-9cae-90184a6ea39c.png)
+> ![Minecraft](https://images7.alphacoders.com/589/thumb-1920-589234.jpg)
