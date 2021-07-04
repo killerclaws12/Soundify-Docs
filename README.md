@@ -9,7 +9,7 @@ MiningAway runs on a private hosting server so the bot should be running 24/7, u
 MiningAway does **store** information, such as guild IDs and user IDs, and how much items and cash a user has. But the information is **stored** in a database.
 On further note, the developer can see any information from any guild, If you do not feel confortable with us looking at your stored data please contact one of the developers to delete it from the database.
 
-**To make it more clear as bot updates go on, any information and/or data that goes to Miningaway will STORED**
+**To make it more clear as bot updates go on, any information and/or data that goes to Miningaway will STORED. To delete the data please contact one of the developers in the support server immediately**
 
 > For any questions or concerns, open up an issue, dm Mr.Claws#0103, or join the [Discord Server](https://discord.gg/URmmt4nSxv). 
 
