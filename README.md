@@ -1,19 +1,18 @@
 
   
-# What is MiningAway?
-Our Discord Bot named MiningAway is a economy bot but what makes it unique is that it is minecraft themed. You can chop down a tree or even mine in a cave and do lots more such as buy tools and pets!
+# What is Soundify?
+Our Discord Bot named Soundify is a advanced discord music bot to get your vcs more active.
 
 ## Additional Information
-MiningAway runs on a private hosting server so the bot should be running 24/7, unless I am doing bug fixes and need to restart the bot, or something else happens that is out of my control. The bot is constantly updating, and with constant updates comes with it's downs, when I reboot MiningAway, it takes about an average of 5 seconds maybe less to turn the bot off and do a restart, if a command doesn't work wait about 5 seconds and try the command again. More commands will be added soon, such as games and some miscellaneous commands I have in mind. As for right now I am just perfecting the current commands to make sure it doesn't have any bugs and issues. All the commands the fit for PG-13 audiences.
+Soundify runs on a private hosting server so the bot should be running 24/7, unless I am doing bug fixes and need to restart the bot, or something else happens that is out of my control. The bot is constantly updating, and with constant updates comes with it's downs, when I reboot Soundify, it takes about an average of 5 seconds maybe less to turn the bot off and do a restart, if a command doesn't work wait about 5 seconds and try the command again. More commands will be added soon, such as games and some miscellaneous commands I have in mind. As for right now I am just perfecting the current commands to make sure it doesn't have any bugs and issues. All the commands the fit for PG-13 audiences.
 
 # Private Policy:
-MiningAway does **store** information, such as guild IDs and user IDs, and how much items and cash a user has. But the information is **stored** in a database.
-On further note, the developer can see any information from any guild, If you do not feel confortable with us looking at your stored data please contact one of the developers to delete it from the database, other people such as users that use our bot cannot see your data. 
+Soundify does **store** information. It stores guild ids and prefixes for each guild. We need this information because the bot will not work properly without the information. 
 
 # Upcomming updates
-The developers of MiningAway will be adding fish and a new block to the bot that you can get. You can get fish by a fishing command that will also be coming soon. The new block will be hard to get and maybe you can even buy it for a certain amount of cash. We will add commands such as craft so you can craft stuff and we will make it so pets can give you tripple the amount of resources you get. 
+The developers of Soundify will add a 24/7 command were the bot can stay in your vc 24/7. We will also add more commands related to music ofc. 
 
-**To make it more clear as bot updates go on, any information and/or data that goes to Miningaway will STORED. To delete the data please contact one of the developers in the support server immediately**
+**To make it more clear as bot updates go on, any information and/or data that goes to Soundify will STORED. To delete the data please contact one of the developers in the support server immediately**
 
 > For any questions or concerns, open up an issue, dm Mr.Claws#0103, or join the [Discord Server](https://discord.gg/URmmt4nSxv). 
 
@@ -23,6 +22,3 @@ The developers of MiningAway will be adding fish and a new block to the bot that
 
 ©️ 2021 Mr.Claws#0103 **All Rights Reserved**
 
-## Images:
-
-> ![Minecraft](https://images7.alphacoders.com/589/thumb-1920-589234.jpg)
